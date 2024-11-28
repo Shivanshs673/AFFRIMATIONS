@@ -20,18 +20,18 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-AFFIRMATIONS/
-├── app/                   # Main application module
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/affirmations/  # Application source code
-│   │   │   │   ├── model/                     # Data model classes
-│   │   │   │   ├── data/                      # Data source for affirmations
-│   │   │   └── res/                           # UI resources (layouts, drawables, etc.)
-│   ├── build.gradle.kts                       # Gradle build script
-├── gradle/                                     # Gradle wrapper files
-├── gradlew, gradlew.bat                        # Gradle wrapper executables
-└── settings.gradle.kts                         # Project settings
+AFFIRMATIONS/  <br>
+├── app/                   # Main application module<br>
+│   ├── src/<br>
+│   │   ├── main/<br>
+│   │   │   ├── java/com/example/affirmations/  # Application source code<br>
+│   │   │   │   ├── model/                     # Data model classes<br>
+│   │   │   │   ├── data/                      # Data source for affirmations<br>
+│   │   │   └── res/                           # UI resources (layouts, drawables, etc.)<br>
+│   ├── build.gradle.kts                       # Gradle build script<br>
+├── gradle/                                     # Gradle wrapper files<br>
+├── gradlew, gradlew.bat                        # Gradle wrapper executables<br>
+└── settings.gradle.kts                         # Project settings<br>
 
 ## Built With
 Kotlin - Programming language
